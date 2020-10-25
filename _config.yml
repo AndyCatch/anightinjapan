@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: andrew.catch@gmail.com
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: andycatch
 github_username: andycatch
 theme: minima
