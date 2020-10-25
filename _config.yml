@@ -32,18 +32,18 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# This will ensure that the default layout for each page is the default template, i.e show the nav
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "default" # This will ensure that the default layout for each page is the default template, i.e show the nav
+      layout: default
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
-      layout: "post"
-  -
+      layout: post
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
