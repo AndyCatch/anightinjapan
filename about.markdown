@@ -1,7 +1,7 @@
 ---
-layout: default
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
 
 <!-- The three dashes --- mean process the above in Jekyll -->
